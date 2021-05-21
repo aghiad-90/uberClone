@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-uberclone-dev-204517-authRole",
+      "UnauthRoleArn": "arn:aws:iam::942622221843:role/amplify-uberclone-dev-204517-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::942622221843:role/amplify-uberclone-dev-204517-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-uberclone-dev-204517-deployment",
+      "UnauthRoleName": "amplify-uberclone-dev-204517-unauthRole",
+      "StackName": "amplify-uberclone-dev-204517",
+      "StackId": "arn:aws:cloudformation:us-east-1:942622221843:stack/amplify-uberclone-dev-204517/9a7cef50-b8c1-11eb-9317-0a637f9cba95",
+      "AmplifyAppId": "d2qpqo5diw3q95"
+    },
+    "categories": {
+      "auth": {
+        "uberclone494740a2494740a2": {}
+      },
+      "function": {
+        "uberclone494740a2494740a2PostConfirmation": {}
+      }
+    }
+  }
+}
